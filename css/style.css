@@ -639,6 +639,7 @@ header.sticky {
 /*--- topbar ---*/
 
 .topbar {
+ .topbar { background-color: #006400; /* Change the color to green */ }
     background: #fff;
     display: block;
     height: 60px;
